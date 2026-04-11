@@ -71,7 +71,7 @@ export default function Home() {
             </form>
             <div className={styles.customInputContainer}>
               <span onClick={() => setShowCustom(!showCustom)}>
-              <i className="bi bi-pencil"> Personalizar link</i> 
+              <i className="bi bi-pencil"></i>  Personalizar link
             </span>
 
             {showCustom && (

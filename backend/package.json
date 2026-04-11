@@ -2,7 +2,7 @@
   "name": "backend-project",
   "version": "1.0.0",
   "description": "<div align=\"center\">",
-  "main": "dist/server.ts",
+  "main": "dist/server.js",
   "scripts": {
     "build": "tsup src",
     "start": "node dist/server.js",
